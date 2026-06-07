@@ -22,9 +22,19 @@ Desarrollar herramientas sencillas, potentes y accesibles para proteger aplicaci
 | 💎 AppLocker Pro Suite | AppLocker Pro + NetBlocker Pro.                 |
 | 🌍 AppLocker Pro Nexus | Administración remota Cliente-Servidor.         |
 
-### 📫 Contacto
+### 📥 Accesos Directos
 
-* GitHub: https://github.com/soporteantimalware
+* 🛡️ **AppLocker Pro**
+  https://github.com/soporteantimalware/applockepro
+
+* 🌐 **NetBlocker Premium**
+  https://github.com/soporteantimalware/netblockerpremium
+
+* 🛡️🌐 **AppLocker Pro Suite**
+  https://github.com/soporteantimalware/applockeprosuite
+
+* 🌍 **AppLocker Pro Nexus**
+  https://github.com/soporteantimalware/applockerpronexus
 
 ### ⭐ Apoya el Proyecto
 

@@ -25,7 +25,7 @@ Desarrollar herramientas sencillas, potentes y accesibles para proteger aplicaci
 ### 📥 Accesos Directos
 
 * 🛡️ **AppLocker Pro**
-  https://github.com/soporteantimalware/applockepro
+  https://github.com/soporteantimalware/applockerpro
 
 * 🌐 **NetBlocker Premium**
   https://github.com/soporteantimalware/netblockerpremium

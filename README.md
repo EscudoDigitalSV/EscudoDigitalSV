@@ -5,7 +5,7 @@
 Soy el creador de:
 
 * 🔒 AppLocker Pro
-* 🌐 NetBlocker Pro
+* 🌐 NetBlocker Premium
 * 💎 AppLocker Pro Suite
 * 🌍 AppLocker Pro Nexus
 
@@ -18,7 +18,7 @@ Desarrollar herramientas sencillas, potentes y accesibles para proteger aplicaci
 | Proyecto               | Descripción                                     |
 | ---------------------- | ----------------------------------------------- |
 | 🔒 AppLocker Pro       | Protección de aplicaciones mediante contraseña. |
-| 🌐 NetBlocker Pro      | Bloqueo de sitios web y control de Internet.    |
+| 🌐 NetBlocker Premium      | Bloqueo de sitios web y control de Internet.    |
 | 💎 AppLocker Pro Suite | AppLocker Pro + NetBlocker Pro.                 |
 | 🌍 AppLocker Pro Nexus | Administración remota Cliente-Servidor.         |
 

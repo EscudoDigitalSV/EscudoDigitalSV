@@ -11,7 +11,7 @@ Soy el creador de:
 
 ### 🚀 Mi misión
 
-Desarrollar herramientas sencillas, potentes y accesibles para proteger aplicaciones, controlar el acceso a Internet y mejorar la seguridad en Windows 10 y Windows 11.
+Desarrollar herramientas software útiles y de seguridad para windows, ofreciendo herramientas sencillas, potentes y accesibles para proteger y controlar el entorno digital de los usuarios. controlar el acceso a Internet y mejorar la seguridad en Windows 10 y Windows 11.
 
 ### 📦 Productos
 

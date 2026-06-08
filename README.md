@@ -31,7 +31,7 @@ Desarrollar herramientas software útiles y de seguridad para windows, ofreciend
   https://github.com/soporteantimalware/netblockerpremium
 
 * 🛡️🌐 **AppLocker Pro Suite**
-  https://github.com/soporteantimalware/applockeprosuite
+  https://github.com/soporteantimalware/applockerprosuite
 
 * 🌍 **AppLocker Pro Nexus**
   https://github.com/soporteantimalware/applockerpronexus

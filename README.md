@@ -39,7 +39,7 @@ Desarrollar herramientas de seguridad para Windows, ofreciendo soluciones sencil
 ### 📬 Contacto
 
 * 📧 **Correo electrónico:** [soporteantimalware@gmail.com](mailto:soporteantimalware@gmail.com)
-* ✈️ **Telegram:** @soporteantimalware
+* ✈️ **Telegram:** [@soporteantimalware](https://t.me/soporteantimalware)
 
 ### ⭐ Apoya el Proyecto
 

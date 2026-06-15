@@ -68,6 +68,19 @@ Las soluciones de Soporte Antimalware están orientadas a:
 * 📧 **Correo electrónico:** [soporteantimalware@gmail.com](mailto:soporteantimalware@gmail.com)
 * ✈️ **Telegram:** [@soporteantimalware](https://t.me/soporteantimalware)
 
-### ⭐ Apoya el Proyecto
+## ⭐ Apoya el Proyecto
 
-Si te gustan mis herramientas, considera seguir el proyecto en GitHub, compartirlo con otros usuarios y ayudar a que más personas mejoren la seguridad de sus equipos Windows.
+Si te gustan mis herramientas y deseas apoyar el desarrollo de nuevas soluciones de seguridad para Windows:
+
+* ⭐ Sigue los proyectos en GitHub.
+* 🚀 Comparte las herramientas con otros usuarios.
+* 💬 Recomienda Soporte Antimalware a amigos y colegas.
+* ❤️ Apoya el desarrollo mediante licencias anuales o de por vida.
+
+Cada apoyo ayuda a seguir creando nuevas herramientas y a mejorar las existentes.
+
+---
+
+### 🛡️ Soporte Antimalware
+
+**Desarrollando el futuro de la seguridad para Windows.**

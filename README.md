@@ -39,6 +39,16 @@ Las soluciones de Soporte Antimalware están orientadas a:
 
 🚀 Nuevas herramientas y proyectos de seguridad en constante desarrollo
 
+---
+
+## 💡 Ecosistema Flexible
+
+Soporte Antimalware desarrolla soluciones tanto gratuitas como Premium, permitiendo a cada usuario elegir la opción que mejor se adapte a sus necesidades.
+
+Las versiones Premium ayudan a financiar el desarrollo continuo de nuevas herramientas, actualizaciones y mejoras para toda la comunidad.
+
+---
+
 ### 📦 Productos Actuales
 
 | Proyecto               | Descripción                                     |

@@ -1,4 +1,10 @@
-# 🛡️ Bienvenido a Soporte Antimalware
+# 🛡️ Soporte Antimalware
+
+## Seguridad, Control y Administración para Windows
+
+Bienvenido a **Soporte Antimalware**, un ecosistema de herramientas de seguridad diseñado para Windows 10 y Windows 11.
+
+Mi objetivo es desarrollar soluciones prácticas, potentes y accesibles que ayuden a usuarios, técnicos y pequeñas empresas a mejorar la seguridad de sus equipos, controlar aplicaciones, administrar el acceso a Internet y fortalecer la protección del sistema operativo.
 
 ## 🔐 Desarrollador de Soluciones de Seguridad para Windows
 
@@ -9,11 +15,31 @@ Soy el creador de:
 * 💎 AppLocker Pro Suite
 * 🌍 AppLocker Pro Nexus
 
-### 🚀 Mi misión
+## 🚀 Misión
 
-Desarrollar herramientas de seguridad para Windows, ofreciendo soluciones sencillas, potentes y accesibles para proteger aplicaciones, controlar el acceso a Internet y mejorar la seguridad en Windows 10 y Windows 11.
+Crear herramientas de seguridad modernas para Windows que permitan proteger equipos, controlar el uso de aplicaciones, gestionar el acceso a Internet, administrar dispositivos de forma remota y automatizar tareas de seguridad mediante soluciones sencillas, eficientes y fáciles de usar.
 
-### 📦 Productos
+---
+
+## 🛠️ Áreas de Desarrollo
+
+Las soluciones de Soporte Antimalware están orientadas a:
+
+🔒 Protección y control de aplicaciones
+
+🌐 Seguridad y control de acceso a Internet
+
+🛡️ Fortalecimiento de la seguridad de Windows
+
+👥 Administración remota de equipos
+
+⚙️ Automatización de tareas de seguridad
+
+🔍 Diagnóstico, monitoreo y mantenimiento del sistema
+
+🚀 Nuevas herramientas y proyectos de seguridad en constante desarrollo
+
+### 📦 Productos Actuales
 
 | Proyecto               | Descripción                                     |
 | ---------------------- | ----------------------------------------------- |
@@ -21,6 +47,7 @@ Desarrollar herramientas de seguridad para Windows, ofreciendo soluciones sencil
 | 🌐 NetBlocker Premium  | Bloqueo de sitios web y control de Internet.    |
 | 💎 AppLocker Pro Suite | AppLocker Pro + NetBlocker Premium.             |
 | 🌍 AppLocker Pro Nexus | Administración remota Cliente-Servidor.         |
+
 
 ### 📥 Accesos Directos
 

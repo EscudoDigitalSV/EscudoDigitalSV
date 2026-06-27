@@ -62,21 +62,21 @@ Las versiones Premium ayudan a financiar el desarrollo continuo de nuevas herram
 ### 📥 Accesos Directos
 
 * 🔒 **AppLocker Pro**
-  https://github.com/soporteantimalware/applockerpro
+  https://github.com/escudodigitalsv/applockerpro
 
 * 🌐 **NetBlocker Premium**
-  https://github.com/soporteantimalware/netblockerpremium
+  https://github.com/escudodigitalsv/netblockerpremium
 
 * 💎 **AppLocker Pro Suite**
-  https://github.com/soporteantimalware/applockerprosuite
+  https://github.com/escudodigitalsv/applockerprosuite
 
 * 🌍 **AppLocker Pro Nexus**
-  https://github.com/soporteantimalware/applockerpronexus
+  https://github.com/escudodigitalsv/applockerpronexus
 
 ### 📬 Contacto
 
-* 📧 **Correo electrónico:** [soporteantimalware@gmail.com](mailto:soporteantimalware@gmail.com)
-* ✈️ **Telegram:** [@soporteantimalware](https://t.me/soporteantimalware)
+* 📧 **Correo electrónico:** [soporte@escudodigitalsv.com](mailto:sopore@escudodigitalsv.com)
+* ✈️ **Telegram:** [@escudodigitalsv](https://t.me/escudodigitalsv)
 
 ## ⭐ Apoya el Proyecto
 
@@ -91,6 +91,6 @@ Cada apoyo ayuda a seguir creando nuevas herramientas y a mejorar las existentes
 
 ---
 
-### 🛡️ Soporte Antimalware
+### 🛡️ EscudoDigitalSV
 
 **Desarrollando el futuro de la seguridad para Windows.**
